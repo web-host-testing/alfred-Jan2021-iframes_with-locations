@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="29px" height="18px" viewBox="0 0 29 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Group" transform="translate(1 1)">
+    <path d="M9 8L0 0M0 16L9 8" transform="translate(17.5 0)" id="Combined-Shape" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M25.5 0.5L0.5 0.5" transform="translate(0 7.5)" id="Line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

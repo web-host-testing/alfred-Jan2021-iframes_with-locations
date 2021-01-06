@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Alfred智能櫃 – We Deliver, You Collect.</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="200903_Alfred_About_DesktopHD" transform="translate(-126.000000, -293.000000)">
+            <g id="Group-6" transform="translate(128.000000, 295.000000)">
+                <g id="Group-7" transform="translate(12.000000, 12.000000)" fill="#E83C3A">
+                    <path d="M10,0 C15.5228475,-1.01453063e-15 20,4.4771525 20,10 L20,17 C20,18.6568542 18.6568542,20 17,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Rectangle"></path>
+                </g>
+                <line x1="6" y1="6" x2="10" y2="10" id="Path-4" stroke="#E83C3A" stroke-width="3" opacity="0.35" stroke-linecap="round"></line>
+                <line x1="20" y1="-2.27318164e-13" x2="20" y2="6" id="Path-4-Copy" stroke="#E83C3A" stroke-width="3" opacity="0.35" stroke-linecap="round"></line>
+                <line x1="6" y1="20" x2="-2.83106871e-14" y2="20" id="Path-4-Copy-2" stroke="#E83C3A" stroke-width="3" opacity="0.35" stroke-linecap="round"></line>
+                <path d="M18,23 C19.3333333,24.3333333 20.6666667,25 22,25 C23.3333333,25 24.6666667,24.3333333 26,23" id="Path-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                <ellipse id="Oval" fill="#FFFFFF" cx="20" cy="19.5" rx="1" ry="1.5"></ellipse>
+                <ellipse id="Oval-Copy" fill="#FFFFFF" cx="24" cy="19.5" rx="1" ry="1.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
